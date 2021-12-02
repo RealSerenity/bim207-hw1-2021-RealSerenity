@@ -24,6 +24,7 @@ public class App {
                 Map<String, Integer> wordCount = countWords(words);
                 printFrequentTerms(wordCount, options.topN);
                 break;
+
         }
     }
 
